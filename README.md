@@ -1,0 +1,2 @@
+In this project we are creating clusters of customer who are visiting the mall and finding out which customer we should target.
+Target will be based on how much customer earns and how much he spends on shopping
